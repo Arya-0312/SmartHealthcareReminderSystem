@@ -1,22 +1,22 @@
 # SmartHealthcareReminderSystem
 Smart Healthcare Reminder System built using Java, Java Swing, JDBC, and MySQL for managing appointments and sending timely reminders.
 
-## 📌 Overview
+## Overview
 The Smart Healthcare Reminder System is a Java-based application designed to help patients manage appointments and receive timely reminders. It improves healthcare efficiency by reducing missed appointments and manual scheduling issues.
 
-## 💡 Features
+## Features
 - Patient Registration & Login
 - Appointment Booking
 - Reminder Notifications
 - Conflict Detection
 - Database Integration (MySQL)
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Java (Swing for UI)
 - MySQL (Database)
 - JDBC (Connectivity)
 
-## 🖥️ Screenshots
+## Screenshots
 <img width="362" height="221" alt="Screenshot 2026-04-26 101826" src="https://github.com/user-attachments/assets/41ca0697-6bd4-4b4d-b015-97fc6f2d1fe4" />
 <img width="313" height="206" alt="Screenshot 2026-04-26 101844" src="https://github.com/user-attachments/assets/5854b0e4-fe12-47f9-961b-b05cee837112" />
 <img width="885" height="543" alt="Screenshot 2026-04-26 101901" src="https://github.com/user-attachments/assets/bfe4d606-aa71-45cc-bad9-53cf03a59edb" />
